@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        YouTube Volume Curve Designer
 // @namespace   knoa.jp
-// @version     3.0.4
+// @version     3.0.4.1
 // @description Customize the volume increasing curve for subtle sound tweaks and maximum volume boosts.
 // @author      min5162 (Modified from original by knoa.jp)
 // @homepage    https://github.com/mkco5162/youtube-volume-curve-designer
