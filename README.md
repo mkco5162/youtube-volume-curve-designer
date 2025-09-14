@@ -12,7 +12,7 @@
 ## 설치 및 사용법
 1. Tampermonkey 또는 유사한 확장 프로그램을 설치합니다.
 2. [최신 스크립트](https://raw.githubusercontent.com/mkco5162/youtube-volume-curve-designer/refs/heads/main/youtube_vol_curve.js)를 설치합니다.
-3. 유튜브에서 음소거 버튼을 우클릭하여 볼륨 곡선 패널을 엽니다.
+3. 유튜브에서 볼륨(음소거) 버튼을 우클릭하여 볼륨 곡선 패널을 엽니다.
 
 ## 출처 및 참고
 - 원본 스크립트: [knoa.jp](https://greasyfork.org/scripts/404756-youtube-volume-curve-designer)
