@@ -37,13 +37,13 @@ SOFTWARE.
 // @include     https://music.youtube.com/*
 // @exclude     https://www.youtube.com/live_chat*
 // @exclude     https://www.youtube.com/live_chat_replay*
-// @version     3.0.2
+// @version     3.0.3
 // @author      min5162 (Modified from original by knoa.jp)
 // @homepage    https://github.com/mkco5162/youtube-volume-curve-designer
 // @homepageURL https://github.com/mkco5162/youtube-volume-curve-designer
 // @supportURL  https://github.com/mkco5162/youtube-volume-curve-designer/issues
-// @updateURL   https://raw.githubusercontent.com/mkco5162/youtube-volume-curve-designer/main/youtube-volume-curve-designer.meta.js
-// @downloadURL https://raw.githubusercontent.com/mkco5162/youtube-volume-curve-designer/main/youtube-volume-curve-designer.user.js
+// @updateURL   https://raw.githubusercontent.com/mkco5162/youtube-volume-curve-designer/refs/heads/main/youtube-volume-curve-designer.meta.js
+// @downloadURL https://raw.githubusercontent.com/mkco5162/youtube-volume-curve-designer/refs/heads/main/youtube_vol_curve.js
 // @source      https://greasyfork.org/scripts/404756-youtube-volume-curve-designer
 // @grant       none
 // ==/UserScript==
