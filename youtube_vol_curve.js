@@ -37,7 +37,7 @@ SOFTWARE.
 // @include     https://music.youtube.com/*
 // @exclude     https://www.youtube.com/live_chat*
 // @exclude     https://www.youtube.com/live_chat_replay*
-// @version     3.0.3.1
+// @version     3.0.3.2
 // @author      min5162 (Modified from original by knoa.jp)
 // @homepage    https://github.com/mkco5162/youtube-volume-curve-designer
 // @homepageURL https://github.com/mkco5162/youtube-volume-curve-designer
