@@ -41,7 +41,7 @@ SOFTWARE.
 // @include     https://music.youtube.com/*
 // @exclude     https://www.youtube.com/live_chat*
 // @exclude     https://www.youtube.com/live_chat_replay*
-// @version     3.0.3.4
+// @version     3.0.4
 // @author      min5162 (Modified from original by knoa.jp)
 // @homepage    https://github.com/mkco5162/youtube-volume-curve-designer
 // @homepageURL https://github.com/mkco5162/youtube-volume-curve-designer
@@ -75,7 +75,7 @@ SOFTWARE.
 (function(){
   const SCRIPTID = 'YouTubeVolumeCurveDesigner';
   const SCRIPTNAME = 'YouTube Volume Curve Designer';
-  const DEBUG = false;/*
+  const DEBUG = false;
 
   if(window === top && console.time) console.time(SCRIPTID);
   const MS = 1, SECOND = 1000*MS, MINUTE = 60*SECOND, HOUR = 60*MINUTE, DAY = 24*HOUR, WEEK = 7*DAY, MONTH = 30*DAY, YEAR = 365*DAY;
