@@ -22,8 +22,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
+
+// ==UserScript==
 // @name        YouTube Volume Curve Designer
-// @icon        https://www.youtube.com/s/desktop/fe2e3e9e/img/favicon.ico
+// @icon        https://www.youtube.com/s/desktop/1c9f2583/img/favicon_144x144.png
 // @icon        https://music.youtube.com/img/favicon_32.png
 // @name:ja     YouTube Volume Curve Designer
 // @name:zh-CN  YouTube Volume Curve Designer
@@ -39,7 +41,7 @@ SOFTWARE.
 // @include     https://music.youtube.com/*
 // @exclude     https://www.youtube.com/live_chat*
 // @exclude     https://www.youtube.com/live_chat_replay*
-// @version     3.0.3.3
+// @version     3.0.3.4
 // @author      min5162 (Modified from original by knoa.jp)
 // @homepage    https://github.com/mkco5162/youtube-volume-curve-designer
 // @homepageURL https://github.com/mkco5162/youtube-volume-curve-designer
