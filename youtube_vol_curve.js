@@ -23,6 +23,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 // @name        YouTube Volume Curve Designer
+// @icon        https://www.youtube.com/s/desktop/fe2e3e9e/img/favicon.ico
+// @icon        https://music.youtube.com/img/favicon_32.png
 // @name:ja     YouTube Volume Curve Designer
 // @name:zh-CN  YouTube Volume Curve Designer
 // @name:ko     YouTube Volume Curve Designer
